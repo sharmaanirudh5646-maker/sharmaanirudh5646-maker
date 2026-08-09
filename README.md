@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Anirudh 👋
 
-<!--
-**sharmaanirudh5646-maker/sharmaanirudh5646-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student at Amity University  
+📊 Specialization: Data Science  
+💻 Aspiring Data Scientist | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently pursuing a Bachelor of Computer Applications (BCA) from Amity University with a specialization in Data Science.
+
+I am building my foundation in programming, data science and problem-solving through continuous learning and practical projects.
+
+## Currently Learning
+
+- C Programming
+- Python
+- SQL
+- Data Structures & Algorithms
+- Data Science
+
+## Career Goal
+
+To build a career in Data Science and Artificial Intelligence and work on real-world technology solutions.
+
+## My Learning Journey
+
+C Programming → Python → SQL → DSA → Data Analysis → Machine Learning
+
+🚀 Learning every day. Building step by step.
